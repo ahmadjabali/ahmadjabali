@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadjabali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadjabali" /> </p>
 
+
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Apis**
 
 - 💬 Ask me about **Ai models , flutter ,Api ,firebase**
 
-- 📫 How to reach me **ahmadjabali20009@gmail.com**
+- 📫 You can reach me **ahmadjabali20009@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-jabali-973709222/](https://www.linkedin.com/in/ahmad-jabali-973709222/)
+- 📄 Flutter application developer and AI models
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
