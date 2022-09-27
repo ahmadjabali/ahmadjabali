@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Apis**
 
-- 💬 Ask me about **Ai models , flutter ,Api ,firebase**
+- 💬 Ask me about **AI models and techniques , flutter ,APIs ,firebase**
 
 - 📫 You can reach me **ahmadjabali20009@gmail.com**
 
-- 📄 Flutter application developer and AI models
+- 📄 Flutter application developer and AI models and techniques
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
