@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadjabali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadjabali" /> </p>
 
 
-- 🔭 I’m currently working on **Flutter and Python**
+- 🔭 I’m currently working on **Laravel and Python**
 
 - 🌱 I’m currently learning **NLP**
 
