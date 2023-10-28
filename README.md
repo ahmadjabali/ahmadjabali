@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Jabali</h1>
-<h3 align="center">Artificial intelligence student at Imam Abdulrahman bin Faisal University in Dammam</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadjabali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadjabali" /> </p>
 
